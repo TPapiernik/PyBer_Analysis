@@ -2,8 +2,8 @@
 
 ## List of Steps and Deliverables
 
-- Import your data into a Pandas DataFrame.
-- Merge your DataFrames.
+- Import data into a Pandas DataFrame.
+- Merge DataFrames.
 - Create a bubble chart that showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type, including urban, suburban, and rural.
 - Determine the mean, median, and mode for the following:
 	- The total number of rides for each city type.
